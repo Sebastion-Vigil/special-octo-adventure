@@ -1,2 +1,0 @@
-# special-octo-adventure
-*
