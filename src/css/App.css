@@ -1,0 +1,38 @@
+body {
+  /* margin: 0; */
+  background-color: silver;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  width: 99.9vw;
+  height: 97vh;
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* .text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 25%;
+  border: 1px solid black;
+  font-size: 32px;
+  color: darkgrey;
+  text-shadow: -.75px 0 black, 0 .75px black, .75px 0 black, 0 -.75px black;
+}
+
+.header {
+  padding-bottom: 26px;
+  font-size: 125px;
+  height: 20%;
+  color: darkred;
+  text-shadow: -2px 1 white, 1 2px white, 2px 1 white, 1 -2px black;
+} */

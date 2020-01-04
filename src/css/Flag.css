@@ -1,0 +1,32 @@
+.flag {
+    margin: 5px;
+    height: 18vh;
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../images/TrumpFlag.png');
+    background-size: 100% 100%;
+    border-radius: 5px;
+  }
+  
+  .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 25%;
+    /* border: 1px solid black; */
+    font-size: 10px;
+    color: white;
+    text-shadow: -.75px 0 black, 0 .75px black, .75px 0 black, 0 -.75px black;
+  }
+  
+  .header {
+    font-size: 40px;
+    height: 20%;
+    color: darkred;
+    text-shadow: -2px 1 white, 1 2px white, 2px 1 white, 1 -2px black;
+  }
