@@ -7,7 +7,7 @@ class Flag extends React.Component {
     return (
       <div className='flag'>
         <div className='text header'>LGBTQ</div>
-        <div className='text'>Let God Bless Trump (Quickly)</div>
+        <div className='text'>Let God Bless Trump Quickly</div>
       </div>
     )
   }

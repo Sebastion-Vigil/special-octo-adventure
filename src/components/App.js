@@ -9,35 +9,6 @@ class App extends React.Component {
     return (
       <div className='App'>
         <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
-        <Flag/>
       </div>
     )
   }
