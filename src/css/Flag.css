@@ -1,6 +1,6 @@
 .flag-wrapper {
   height: 15vw;
-  width: 11vw;
+  width: 10.25vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9,7 +9,7 @@
 
 .flag {
     /* margin: 5px; */
-    height: 15vh;
+    height: 8vh;
     width: 10.25vw;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     /* border-left: 1px solid white;
     border-right: 1px solid white; */
     border-radius: 7px;
-    border: 1px solid white;
+    /* border: 1px solid white; */
   }
   
   .text {
@@ -29,7 +29,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 7%;
+    height: 6%;
     /* background-color: black; */
     font-size: 10px;
     font-weight: bolder;
@@ -38,13 +38,4 @@
     /* border: 1px solid white; */
     /* border-radius: 20px; */
     /* margin-bottom: 15px; */
-  }
-  
-  .header {
-    /* font-size: 300px;
-    height: 30%;
-    width: 100%;
-    color: black; */
-    /* text-shadow: 2.5px 2.5px white; */
-    
   }
