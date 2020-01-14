@@ -1,6 +1,6 @@
 body {
   /* margin: 0; */
-  background-color: silver;
+  background-color: black;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -10,9 +10,10 @@ body {
 .App {
   width: 99.9vw;
   height: 97vh;
-  background-color: silver;
+  background-color: black;
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
 }
 
