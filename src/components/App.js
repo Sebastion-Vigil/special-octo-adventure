@@ -9,8 +9,7 @@ class App extends React.Component {
     return (
       <div className='App'>
         <Flag/>
-        <div className="nizzle">LGBTQ</div>
-        <div className="trizzle">Let God Bless Trump Quickly</div>
+        <div className="text content">Let God Bless Trump Quickly</div>
       </div>
     )
   }
