@@ -10,8 +10,8 @@
 
 .flag {
     /* margin: 5px; */
-    height: 10vh;
-    width: 20vw;
+    height: 15vh;
+    width: 30vw;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
