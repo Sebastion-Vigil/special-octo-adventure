@@ -9,8 +9,39 @@ class App extends React.Component {
     return (
       <div className='App'>
         <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
+        <Flag/>
         {/* <div className="text header">LGBTQ</div> */}
-        <div className="text content">Let God Bless Trump Quickly</div>
+        {/* <div className="text content">Let God Bless Trump Quickly</div> */}
       </div>
     )
   }

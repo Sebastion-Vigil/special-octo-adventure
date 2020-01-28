@@ -10,13 +10,13 @@
 
 .flag {
     /* margin: 5px; */
-    height: 20vh;
+    height: 10vh;
     width: 20vw;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
-    background-image: url('../images/TrumpFlag.png');
+    background-image: url('../images/URL.png');
     background-size: 100% 100%;
   }
   
