@@ -22,19 +22,22 @@ body {
   /* color: black; */
   position: absolute;
   font-family: sans-serif;
+  font-stretch: ultra-expanded;
   font-weight: bolder;
   width: 80vw;
 }
 
 .header {
-  top: 30vh;
-  font-size: 188px;
+  top: 9vh;
+  left: 9vw;
+  font-size: 315px;
 }
 
 .content {
-  top:75vh;
-  font-size: 75px;
-  color: white
+  top: 64vh;
+  left: 11vw;
+  font-size: 76px;
+  color: black;
 }
 
 /* .text {
